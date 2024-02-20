@@ -1,0 +1,6 @@
+/* SelectedPlaceModal.css */
+.selected-place-modal {
+    overflow-y: auto; /* เพิ่มคุณสมบัติการเลื่อนให้เนื้อหาภายใน SelectedPlaceModal เมื่อมีข้อมูลเกินขนาด */
+    max-height: 80vh; /* กำหนดสูงสุดของ SelectedPlaceModal ให้มีความสูงไม่เกิน 80% ของ viewport */
+  }
+  
